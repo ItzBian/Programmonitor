@@ -33,8 +33,8 @@ Dieses Projekt ist eine frühe Alpha-Version eines Programms zur Überwachung de
 ### Schritte zur Installation
 
 1. **Repository klonen**:
-   - Klonen Sie das Repository von GitHub: `git clone https://github.com/IhrBenutzername/ImGui-Program-Monitor.git`
-   - Wechseln Sie in das Verzeichnis des geklonten Repositorys: `cd ImGui-Program-Monitor`
+   - Klonen Sie das Repository von GitHub: `git clone https://github.com/itzbian/programmonitor.git`
+   - Wechseln Sie in das Verzeichnis des geklonten Repositorys: `cd programmonitor`
 
 2. **Abhängigkeiten installieren**:
    Stellen Sie sicher, dass die folgenden Abhängigkeiten installiert sind:
